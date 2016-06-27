@@ -6,6 +6,5 @@ description 'Installs/Configures base_server'
 long_description 'Installs/Configures base_server'
 version '0.1.0'
 
-depends 'apt'
 depends 'zsh'
 depends 'htop'
